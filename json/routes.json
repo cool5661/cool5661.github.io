@@ -1,0 +1,126 @@
+ [
+  {
+    "pathName": "Kotor - Grovinci",
+    "busStops": [
+      "Kotor bus station",
+      "Skaljari",
+      "Observation deck",
+      "Trojica",
+      "Dub",
+      "Sultvara",
+      "Naljezici",
+      "Sisici",
+      "Bratesici",
+      "Gorovici"
+    ],
+    "schedule": {
+      "to": "13:45",
+      "from": "6:25"
+    }
+  },
+  {
+    "pathName": "Kotor - Mirac",
+    "busStops": [
+      "Kotor bus station",
+      "Skaljari",
+      "Trojica",
+      "Goraja fort",
+      "Mirac"
+    ],
+    "schedule": {
+      "to": "6:30, 13:30",
+      "from": "7:30, 14:30"
+    }
+  },
+  {
+    "pathName": "Kotor - Kavac",
+    "busStops": [
+      "Kotor bus station",
+      "Skaljari",
+      "Trojica",
+      "Goraja fort",
+      "Kavac"
+    ],
+    "schedule": {
+      "to": "13:50",
+      "from": "7:10"
+    }
+  },
+  {
+    "pathName": "Kotor - Krimovica",
+    "busStops": [
+      "Kotor bus station",
+      "Leshevici",
+      "Bigova",
+      "Glavaticici",
+      "Kubaci",
+      "Krimovica"
+    ],
+    "schedule": {
+      "to": "13:50",
+      "from": "6:30"
+    }
+  },
+  {
+    "pathName": "Skaljari - Dragal",
+    "busStops": [
+      "Kotor bus station",
+      "Dobrota",
+      "Luta",
+      "Orahovac",
+      "Drazin Vrt",
+      "Perast",
+      "Risan",
+      "Strp",
+      "Lipci",
+      "Morin",
+      "Dragal"
+    ],
+    "schedule": {
+      "to": "12:30",
+      "from": "7:00"
+    }
+  },
+  {
+    "pathName": "Kamp - Stoliv",
+    "busStops": [
+      "Dobrota",
+      "Kotor bus station",
+      "Mio",
+      "Prchan",
+      "Stoliv"
+    ],
+    "schedule": {
+      "to": "6:15, 6:45, 7:15, 7:45, 8:15, 8:45, 9:15, 9:45, 10:15, 10:45, 11:15, 11:45, 12:15, 12:45, 13:15, 13:45, 14:15, 14:45, 15:15, 15:45, 16:15, 16:45, 17:15, 17:45, 18:15, 18:45, 19:15, 19:45, 20:15, 20:45, 21:15, 21:45, 22:15, 22:45",
+      "from": "6:15"
+    }
+  },
+  {
+    "pathName": "Skaljari - Kostanica",
+    "busStops": [
+      "Kotor bus station",
+      "Dobrota",
+      "Luta",
+      "Orahovac",
+      "Drazin Vrt",
+      "Perast",
+      "Risan",
+      "Strp",
+      "Lipci",
+      "Morin",
+      "Kostanica"
+    ],
+    "schedule": {
+      "to": "6:15, 7:15,  8:15, 9:15,  10:15, 11:15, 12:15, 13:15, 14:15, 15:15, 16:15, 17:15, 18:15, 19:15, 20:15, 21:15, 22:15, 23:15, 00:15",
+      "from": "6:15"
+    }
+  },
+  {
+    "pathName": "Undefiend",
+    "busStops": [],
+    "schedule": {
+      "to": "",
+      "from": ""
+    }
+  }
+]
